@@ -1,4 +1,4 @@
-# Predicting Anti-Cancer Drug Response through Transformer-Based Methods
+# Predicting Anti-Cancer Drug Response through Transformer-Based Modeling
 
 ### Data Availability
 This project utilizes two datasets in combination
